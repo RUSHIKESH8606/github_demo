@@ -1,4 +1,4 @@
 # github_demo
 demo_repository
 <br>
-Author --> Rushikesh
+Author --> Rushikesh Pandirkar
